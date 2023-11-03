@@ -1,3 +1,5 @@
+# Question 1
+
 Given our translation site LWT, which is designed for text and document translations, we need to test that the application meets the following criteria.
 
 ACCEPTANCE CRITERIA:
@@ -12,13 +14,13 @@ NOTES:
 - API: `https://demo-qa-lwt.api.staging.lw-ml.net/docs`
 - TokenAuthentication for API: `Agito {TOKEN}`
 
-# Question 1
+# Question 2
 Could you tell what kind of data is contained in the token?
 
-# Question 2
+# Question 3
 Can you find any errors in the LWT API documentation? 
 
-# Question 3
+# Question 4
 Could you write unit tests for this function? It would be preferable if you use Python, but pseudocode is acceptable as well. Private functions are not included on purpose, their behaviour is not expected to be written, just mocked.
 
 See function [here](function.py)
