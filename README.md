@@ -118,10 +118,6 @@ I have never used this software though, but I guess this would be the best way t
 
 ### Question 2
 
-- I open the API documentation page: `https://demo-qa-lwt.api.staging.lw-ml.net/docs`
-
-- I add the `TokenAuthentication` that was provided.
-
 - I make the following request:
     ```
     curl -X 'POST' \
