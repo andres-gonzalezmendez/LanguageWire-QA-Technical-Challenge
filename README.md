@@ -67,13 +67,13 @@ Frontend app:
 
 Both desktop and mobile:
 
-    - I open the app
+- I open the app
 
-    - I verify all elements on screen
+- I verify all elements on screen
 
-    - I expand all menus and select all possible options
+- I expand all menus and select all possible options
 
-    - I verify all navigation patterns work correct
+- I verify all navigation patterns work correct
 
 **Criteria 3: UI based on the API results.**
 
